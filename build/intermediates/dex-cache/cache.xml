@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/guangoon/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/pre-dexed/debug/jsr305-2.0.1_41f104ab1846f3b2a680800cd2814581893f8b4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/pre-dexed/debug/internal_impl-22.1.1_d0e7fece853bf584aa41226867039940f80897e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/guangoon/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/pre-dexed/debug/javax.annotation-api-1.2_2f10ca0e3aa87da229c0d8c6f2f4a04a7d2e2b83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/guangoon/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/pre-dexed/debug/support-annotations-22.1.1_71c4872b50af18151d15f4cd99259a0354f22b59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/exploded-aar/AndroidFFmpeg/library/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="14a0bb69d8624e12421b111a976bcebcf575aefc">
+        <dex dex="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/pre-dexed/debug/AndroidFFmpeg-library-unspecified_6e11368091e3ffc3823b6dce3725089985b4d4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.1.1_522aef30d582ee674e1c2acb7e038e874f2e40c6.jar" />
+    </item>
+
+</items>

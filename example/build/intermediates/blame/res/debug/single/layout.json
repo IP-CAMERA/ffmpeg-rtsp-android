@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/res/merged/debug/layout/main_activity.xml",
+        "source": "/home/guangoon/github/AndroidFFmpeg/example/src/main/res/layout/main_activity.xml"
+    },
+    {
+        "merged": "/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/res/merged/debug/layout/main_list_item.xml",
+        "source": "/home/guangoon/github/AndroidFFmpeg/example/src/main/res/layout/main_list_item.xml"
+    },
+    {
+        "merged": "/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/res/merged/debug/layout/video_surfaceview.xml",
+        "source": "/home/guangoon/github/AndroidFFmpeg/example/src/main/res/layout/video_surfaceview.xml"
+    }
+]

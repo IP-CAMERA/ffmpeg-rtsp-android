@@ -1,0 +1,4 @@
+#Tue Nov 20 23:23:01 CST 2018
+base.0=/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/transforms/dex/release/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/home/guangoon/github/AndroidFFmpeg/example/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex

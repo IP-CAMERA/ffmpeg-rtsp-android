@@ -1,0 +1,114 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:2:1-106:12
+	package
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:3:5-29
+	android:versionName
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:22.1.1] /home/guangoon/github/AndroidFFmpeg/example/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:20:5-43
+MERGED from [AndroidFFmpeg:library:unspecified] /home/guangoon/github/AndroidFFmpeg/example/build/intermediates/exploded-aar/AndroidFFmpeg/library/unspecified/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+		INJECTED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:13:22-76
+supports-screens
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:15:5-20:24
+	android:largeScreens
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:17:9-36
+	android:smallScreens
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:19:9-36
+	android:normalScreens
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:18:9-37
+	android:anyDensity
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:16:9-34
+application
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:22:5-104:19
+MERGED from [com.android.support:support-v4:22.1.1] /home/guangoon/github/AndroidFFmpeg/example/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:26:9-41
+	android:hardwareAccelerated
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:25:9-43
+	android:allowBackup
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:24:9-35
+	android:icon
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:23:9-43
+activity#com.ffmpegtest.MainActivity
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:27:9-36:20
+	android:label
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:30:13-56
+	android:icon
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:28:13-47
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:29:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:34:27-74
+activity#com.ffmpegtest.VideoActivity
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:37:9-103:20
+	android:screenOrientation
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:42:13-50
+	android:label
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:41:13-45
+	android:hardwareAccelerated
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:40:13-47
+	android:exported
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:38:13-56
+intent-filter#android.intent.category.DEFAULT+com.ffmpegtest.VIDEO_PLAY_ACTION
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:43:13-47:29
+action#com.ffmpegtest.VIDEO_PLAY_ACTION
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:44:17-75
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:44:25-72
+category#android.intent.category.DEFAULT
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:46:27-73
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:48:13-70:29
+action#android.intent.action.VIEW
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:49:17-69
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:49:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:52:17-78
+	android:name
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:52:27-75
+data
+ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:54:17-47
+	android:scheme
+		ADDED from /home/guangoon/github/AndroidFFmpeg/example/src/main/AndroidManifest.xml:54:23-44
